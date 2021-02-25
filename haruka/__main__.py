@@ -27,7 +27,7 @@ You know how hard it is sometimes to manage group so here is the solution for yo
 I'm group manager bot and Anti-spam for RR Players🃏
 
 Activate Anti-spam protection in your BM by this command : 
-/antispam on 
+/antispam ons
 
 Made from the source code of [Aditya 🇮🇳](t.me/xditya)
 
